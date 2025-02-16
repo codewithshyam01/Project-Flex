@@ -38,6 +38,7 @@ Simple Blog Website: A basic blog platform to share articles and posts.
 
 Search Bar: An implementation of a search bar feature.
 
+weather-app: A basic weather app which displays current weather.
 
 Each project is located in its respective directory within the repository. You can navigate to these directories to find the source code and related assets.
 <hr>
