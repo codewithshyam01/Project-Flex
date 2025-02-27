@@ -40,6 +40,8 @@ Search Bar: An implementation of a search bar feature.
 
 weather-app: A basic weather app which displays current weather.
 
+Flower-Codes: A flower codes to impress your crush by flowers.
+
 Each project is located in its respective directory within the repository. You can navigate to these directories to find the source code and related assets.
 <hr>
 Usage
